@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
 
 </div>
