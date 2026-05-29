@@ -1,6 +1,8 @@
-# Yoganand Kodali
 
-**Senior Data Engineer | Spark • PySpark • Databricks • Snowflake • dbt • Delta Lake | Airflow • Kafka • SQL | AWS • Azure • GCP**
+# Yoganand Kodali
+#### Senior Data Engineer &nbsp;|&nbsp; Spark · PySpark · Databricks · Snowflake · dbt · Delta Lake · Airflow · Kafka · SQL · AWS · Azure · GCP
+
+---
 
 I build the data infrastructure that companies depend on — high-throughput pipelines, real-time streaming systems, and cloud-native platforms that process billions of records and power analytics, fraud detection, and machine learning at enterprise scale. 
 
@@ -33,34 +35,6 @@ At **OLA Electric**, built Airflow-orchestrated ETL pipelines handling **100K+ m
 | SLA compliance | **99%** |
 | Manual intervention reduced | **60%** |
 | Report generation time cut | **50%** |
-
----
-
-## Experience
-
-**Sr. Data Engineer — PNC Bank, Boston MA** &nbsp; `Jul 2024 – Dec 2025`
-
-Architected ELT pipelines on GCP (BigQuery · Dataflow · Pub/Sub) for 2M+ daily banking transactions. Built real-time streaming pipelines, optimized BigQuery warehouse models with partitioning and clustering, developed Python ETL automation frameworks, and implemented data quality observability achieving 99% SLA compliance.
-
-`GCP` `BigQuery` `Dataflow` `Pub/Sub` `Cloud Composer` `Airflow` `Python` `SQL` `Great Expectations`
-
-**Data Engineer — Ventiv Technologies, Bangalore** &nbsp; `Oct 2022 – Aug 2023`
-
-Designed Azure lakehouse pipelines (ADF · Databricks · ADLS Gen2) processing 1M+ insurance records/month. Implemented Delta Lake architecture, applied dbt Core modeling across staging/transformation/mart layers, performed SQL tuning cutting query time by 50%, and deployed containerized workloads on Kubernetes.
-
-`Azure` `Databricks` `Delta Lake` `dbt Core` `PySpark` `Snowflake` `Docker` `Kubernetes` `CI/CD`
-
-**Data Engineer — OLA Electric | Futurense Technologies, Bangalore** &nbsp; `Jan 2021 – Sep 2022`
-
-Built ETL/ELT pipelines processing 100K+ monthly orders. Designed 15+ Airflow DAGs reducing manual intervention by 60%. Integrated 10+ heterogeneous data sources into a Delta Lake lakehouse. Maintained 99.9% data accuracy with automated validation and SLA monitoring.
-
-`Airflow` `PySpark` `Delta Lake` `Kafka` `Python` `Power BI`
-
-**Data Analyst / Data Engineer — Rolon Seals, Hyderabad** &nbsp; `May 2018 – Dec 2020`
-
-Built ETL workflows and SQL reporting pipelines, automated Excel reporting with Python cutting cycle time by 50%, and designed Power BI and Tableau dashboards increasing data visibility by 35%.
-
-`Python` `SQL` `Power BI` `Tableau` `ETL`
 
 ---
 
@@ -114,32 +88,11 @@ Functional Python implementation of a simplified Uno game — deck creation, rou
 
 ## Tech Stack
 
-**Languages** &nbsp; `Python` `SQL` `PySpark` `Spark SQL` `T-SQL` `Shell Scripting`
-
-**Data Engineering** &nbsp; `Apache Spark` `Apache Kafka` `Apache Airflow` `dbt Core` `Delta Lake` `Hadoop` `Hive`
-
-**Cloud** &nbsp; `GCP — BigQuery · Dataflow · Pub/Sub · Cloud Composer` &nbsp; `Azure — ADF · Databricks · Synapse · ADLS Gen2` &nbsp; `AWS — S3 · Glue · Redshift · Lambda`
-
-**Warehousing** &nbsp; `Snowflake` `BigQuery` `SQL Server` `MySQL` `Oracle` `MongoDB`
-
-**DevOps** &nbsp; `Docker` `Kubernetes` `CI/CD` `Azure DevOps` `Git` `Jenkins` `OpenShift`
-
-**BI & Analytics** &nbsp; `Power BI` `Tableau` `Pandas` `NumPy`
+**Languages** &nbsp; `Python` `SQL` `PySpark` `Spark SQL` `T-SQL` `Shell Scripting`\
+**Data Engineering** &nbsp; `Apache Spark` `Apache Kafka` `Apache Airflow` `dbt Core` `Delta Lake` `Hadoop` `Hive`\
+**Warehousing** &nbsp; `Snowflake` `BigQuery` `SQL Server` `MySQL` `Oracle` `MongoDB`\
+**DevOps** &nbsp; `Docker` `Kubernetes` `CI/CD` `Azure DevOps` `Git` `Jenkins` `OpenShift`\
+**BI & Analytics** &nbsp; `Power BI` `Tableau` `Pandas` `NumPy`\
+**Cloud** &nbsp; `GCP — BigQuery · Dataflow · Pub/Sub · Cloud Composer` &nbsp; `Azure — ADF · Databricks · Synapse · ADLS Gen2` &nbsp; `AWS — S3 · Glue · Redshift · Lambda`\
 
 ---
-
-## Education
-
-**M.S. Data Analytics** — Clark University, Worcester MA *(May 2025)*
-
-**PG Diploma, Data Science & Engineering** — Great Lakes Institute, Hyderabad *(Sep 2021)*
-
-**B.Tech, Mechanical Engineering** — Gudlavalleru Engineering College *(Apr 2018)*
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yoganand-Kodali&color=0077B5&style=flat-square&label=Profile+Views)
-
-</div>
