@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=600&size=26&pause=1000&color=2F4F7F&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yoganand+Kodali;Senior+Data+Engineer+%7C+7%2B+Years;Azure+%7C+AWS+%7C+GCP;Building+Pipelines+That+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=26&pause=1000&color=2F4F7F&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yoganand+Kodali;Senior+Data+Engineer+%7C+7%2B+Years;Azure+%7C+AWS+%7C+GCP;Building+Pipelines+That+Scale" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
 
 </div>
@@ -142,3 +142,9 @@
 🔧 **B.Tech, Mechanical Engineering** — Gudlavalleru Engineering College *(Apr 2018)*
 
 ---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yoganand97&color=2F4F7F&style=flat-square&label=Profile+Views)
+
+</div>
