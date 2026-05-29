@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
-[![Email](https://img.shields.io/badge/Email-yoganand.kodali%40gmail.com-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
+[![Email](https://img.shields.io/badge/Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
 
 </div>
 
@@ -142,9 +142,3 @@
 🔧 **B.Tech, Mechanical Engineering** — Gudlavalleru Engineering College *(Apr 2018)*
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yoganand97&color=2F4F7F&style=flat-square&label=Profile+Views)
-
-</div>
