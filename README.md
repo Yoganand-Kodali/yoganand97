@@ -2,7 +2,7 @@
 
 # Yoganand Kodali
 
-### Senior Data Engineer &nbsp;|&nbsp; 7+ Years &nbsp;|&nbsp; Azure · AWS · GCP;|&nbsp; Python · SQL · Pyspark · Databricks · Snowflake
+### Senior Data Engineer &nbsp;|&nbsp; 7+ Years &nbsp;|&nbsp; Azure · AWS · GCP|&nbsp; Python · SQL · Pyspark · Databricks · Snowflake
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoganand-kodali)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:yoganand.kodali@gmail.com)
